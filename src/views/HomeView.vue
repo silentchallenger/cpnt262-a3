@@ -92,7 +92,6 @@ const listArray = [
         :key="card.id"
         :cardTitle="card.title"
         :cardText="card.text"
-        :text="test"
       >
       </AppCard>
     </section>
