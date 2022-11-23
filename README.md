@@ -2,7 +2,7 @@
 
 - Author: Rustu Mesut Eser
 - Live site:
-  [https://silentchallenger.github.io/cpnt262-a3/](https://silentchallenger.github.io/cpnt262-a2/)
+  [https://silentchallenger.github.io/cpnt262-a3/](https://silentchallenger.github.io/cpnt262-a3/)
 
 ## Attributions
 
